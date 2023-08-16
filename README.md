@@ -1,6 +1,9 @@
 ~ npx create-next-app@latest
+
 ~ cd nextjs-v13.4.16-fetch-failed
+
 ~ yarn install
+
 ~ yarn dev
 
 add example fetch api/hello
